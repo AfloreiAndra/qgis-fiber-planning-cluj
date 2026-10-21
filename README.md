@@ -2,7 +2,7 @@
 
 A small fixed-network planning exercise: connecting a central node to four points of interest over the real street network, then estimating cable length, trench length and the number of buildings along the route.
 
-![Map](maps/plan_fibra.png)
+![Map](maps/fibra_cluj.png)
 
 ## Goal
 
